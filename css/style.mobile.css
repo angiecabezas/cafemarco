@@ -1,0 +1,55 @@
+/* Header */
+
+header {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    height: 300px;
+}
+
+.droite {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.droite p {
+    padding: 0;
+}
+
+
+/* VP vontent */
+
+.vp-content {
+    margin: auto;
+    width: 300px;
+}
+
+.vp-content h1 {
+    font-size: 25px;
+}
+
+.vp-content p {
+    font-size: 15px;
+}
+
+/* Section coffee */
+
+.coffee {
+    margin: auto;
+    height: 400px;
+    width: 400px;
+}
+
+/* Section Reserv */
+
+.reserv {
+    width: 300px;
+}
+
+.reserv-text {
+    width: 100%;
+    margin: 5px;
+    text-align: center;
+}
